@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/boulevard_car_club_webpage/static/css/main.abd64e84.css",
+    "main.js": "/boulevard_car_club_webpage/static/js/main.b3c8fe7b.js",
+    "index.html": "/boulevard_car_club_webpage/index.html",
+    "main.abd64e84.css.map": "/boulevard_car_club_webpage/static/css/main.abd64e84.css.map",
+    "main.b3c8fe7b.js.map": "/boulevard_car_club_webpage/static/js/main.b3c8fe7b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.b3c8fe7b.js"
+  ]
+}
