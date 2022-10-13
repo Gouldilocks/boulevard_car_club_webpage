@@ -10,6 +10,14 @@
       "StackName": "amplify-boulevardcarclub-dev-120051",
       "StackId": "arn:aws:cloudformation:us-east-1:317151460228:stack/amplify-boulevardcarclub-dev-120051/9a0a0680-4b18-11ed-b2dd-0e8be2b17711",
       "AmplifyAppId": "d1rje2efz50bof"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1rje2efz50bof",
+          "type": "cicd"
+        }
+      }
     }
   }
 }
