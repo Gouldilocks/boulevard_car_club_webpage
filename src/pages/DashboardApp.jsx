@@ -80,7 +80,7 @@ export default function DashboardApp() {
             container
             direction="column"
             justifyContent="center"
-            alignItems="center"
+            // alignItems="center"
             spacing={verticalSpacing}
           >
 
