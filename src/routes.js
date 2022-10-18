@@ -16,7 +16,7 @@ export default function Router({ changeDark }) {
       path: '/',
       element: <DashboardLayout changeDarkMode={changeDark} />,
       children: [
-        { path: 'home', element: <DashboardApp /> },
+        { path: '', element: <DashboardApp /> },
         { path: 'events', element: <Events /> },
         { path: 'gallery', element: <Gallery /> },
         { path: 'about', element: <About /> },
